@@ -1,0 +1,12 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<ul>
+			<li>Tea</li>
+			<li>Coffee</li>
+			<li>Cap</li>
+			<li>Laptop</li>
+		</ul>
+	</body>
+</html>
